@@ -73,7 +73,11 @@
 
 <!--h1 without bottom border-->
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,linux,md,nodejs,postman,py,tailwind,robloxstudios,vscode&perline=14" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
