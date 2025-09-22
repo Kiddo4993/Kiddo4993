@@ -68,6 +68,10 @@
 
 <!--h1 without bottom border-->
 
+
+ <h1 align="center" style="display: inline-block">Platform of Expertise</h1>
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,linux,md,nodejs,postman,py,tailwind,lua,vscode&perline=14" />
