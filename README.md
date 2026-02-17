@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,c++,js,linux,md,nodejs,postman,py,tailwind,lua,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,cpp,pr,robloxstudio,replit,js,linux,md,nodejs,postman,py,tailwind,lua,vscode&perline=14" />
   </a>
 </p>
 
