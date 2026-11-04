@@ -19,8 +19,21 @@
 </div>
 
 
+<!--Projects start-->
+## What I've built
+
+| Project | What it does |
+|---|---|
+| [**fixel**](https://github.com/Kiddo4993/fixel) | Double-tap Right Option, screenshot what you're stuck on, read the fix in your terminal. Remembers which fixes worked, has a built-in IDE, and plans your Canvas homework. Also a Claude Code plugin. |
+| [**train-ai-from-scratch**](https://github.com/Kiddo4993/train-ai-from-scratch) | Learn the 5 main ways AI is trained by training 6 small models yourself, in minutes, on a laptop. |
+| [**Spark-Vex-App**](https://github.com/Kiddo4993/Spark-Vex-App) | Bayesian team ratings and scouting for VEX Robotics alliance selection. [Live site](https://spark-vex-app.vercel.app) |
+| [**Wipeout-Core**](https://github.com/Kiddo4993/Wipeout-Core) | Our own odometry + PID motion library for VEX V5, with every formula explained. |
+| [**FrenchApp**](https://github.com/Kiddo4993/FrenchApp) | Learn French from A1 to C1 with a skill tree, speech recognition and FSRS spaced repetition. [Live site](https://french-app-xi.vercel.app) |
+<!--Projects end-->
+
+
 <!--Intro start-->
-- 🔭 I’m currently working on a Roblox Game**
+- 🔭 I’m currently working on [Fixel](https://github.com/Kiddo4993/fixel) and a Roblox game
 
 - 🌱 I’m currently learning **Lua, Swift, and Encryption**
 
@@ -95,7 +108,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kiddo4993&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
