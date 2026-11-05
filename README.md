@@ -22,13 +22,58 @@
 <!--Projects start-->
 ## What I've built
 
+### 🤖 AI & developer tools
 | Project | What it does |
 |---|---|
-| [**fixel**](https://github.com/Kiddo4993/fixel) | Double-tap Right Option, screenshot what you're stuck on, read the fix in your terminal. Remembers which fixes worked, has a built-in IDE, and plans your Canvas homework. Also a Claude Code plugin. |
-| [**train-ai-from-scratch**](https://github.com/Kiddo4993/train-ai-from-scratch) | Learn the 5 main ways AI is trained by training 6 small models yourself, in minutes, on a laptop. |
+| [**fixel**](https://github.com/Kiddo4993/fixel) | Double-tap Right Option, screenshot what you're stuck on, read the fix in your terminal. Remembers which fixes worked, has a built-in IDE, and plans your Canvas homework. Also a Claude Code plugin. [Site](https://kiddo4993.github.io/fixel/) |
+| [**train-ai-from-scratch**](https://github.com/Kiddo4993/train-ai-from-scratch) | Learn the 5 main ways AI is trained by training 6 small models yourself, in minutes, on a laptop. [Live demo](https://kiddo4993.github.io/train-ai-from-scratch/) |
+| [**THP**](https://github.com/Kiddo4993/Plugin) | The Task Handoff Protocol: sends a task to whichever AI (Claude, Gemini, OpenAI-compatible or local Ollama) fits it best on cost, speed and past success. |
+| [**Claude Discord Bot**](https://github.com/Kiddo4993/Discord-Bot-Imbued-With-AI-Claude-API-) | A Discord bot that answers through the Claude API, prompted to reply in a vexed, nonplussed way. |
+
+### 📱 Apps
+| Project | What it does |
+|---|---|
+| [**Maîtrise**](https://github.com/Kiddo4993/FrenchApp) | Learn French from A1 to C1 with a skill tree, speech recognition and FSRS spaced repetition. [Live site](https://french-app-xi.vercel.app) |
+| [**Vocab Lab**](https://github.com/Kiddo4993/vocabapp) | An offline-first vocabulary trainer built to scale to 25,000 words, with its own review scheduler and no backend. [Live site](https://vocabapp-seven.vercel.app) |
+| [**Lineage**](https://github.com/Kiddo4993/Lineage) | Learn to draw in 45 days, with daily lessons, AI feedback and streak tracking. [Live site](https://lineage-ruddy.vercel.app) |
+| [**Sanctum**](https://github.com/Kiddo4993/Sanctum) | A calm Bible verse scroller for iOS and Android, with AI-written meanings, narration and saved verses. Built with Expo. [Live site](https://bible-quote-scroller-rn.vercel.app) |
+| [**GymTracker**](https://github.com/Kiddo4993/Gym-App-IOS) | A native SwiftUI gym tracker: Push/Pull/Legs split, progression charts, a streak calendar and a home-screen widget. |
+| [**Chat Bot (Java)**](https://github.com/Kiddo4993/Chat-Bot-Java-) | A chatbot that learns new replies as you talk to it, in a window or in the terminal. |
+
+### 🦾 VEX Robotics
+| Project | What it does |
+|---|---|
 | [**Spark-Vex-App**](https://github.com/Kiddo4993/Spark-Vex-App) | Bayesian team ratings and scouting for VEX Robotics alliance selection. [Live site](https://spark-vex-app.vercel.app) |
 | [**Wipeout-Core**](https://github.com/Kiddo4993/Wipeout-Core) | Our own odometry + PID motion library for VEX V5, with every formula explained. |
-| [**FrenchApp**](https://github.com/Kiddo4993/FrenchApp) | Learn French from A1 to C1 with a skill tree, speech recognition and FSRS spaced repetition. [Live site](https://french-app-xi.vercel.app) |
+| [**800W-Code**](https://github.com/Kiddo4993/800W-Code) | Robot code for VEX V5 team 800W, using LemLib with tuned PID and odometry. |
+
+### 🌐 Websites
+| Project | What it is |
+|---|---|
+| [**Portfolio**](https://github.com/Kiddo4993/PortfolioV2) | My portfolio as a software engineer and artist. [Live site](https://portfolio-v2-psi-seven.vercel.app) |
+| [**Art portfolio**](https://github.com/Kiddo4993/Art-portfolio) | My art. [Live site](https://art-portfolio-nine-kappa.vercel.app) |
+| [**Leo Club**](https://github.com/Kiddo4993/LeoClub) | Website for the Richmond Lahoo Leo Club. [Live site](https://leo-club-seven.vercel.app) |
+| [**FutureMe at VentureLift**](https://github.com/Kiddo4993/FutureMe-Venturelift) | Website for FutureMe at VentureLift. |
+| [**Pokémon Game**](https://github.com/Kiddo4993/Pokemon-Game) | A Pokémon game made for web dev. [Play it](https://pokemon-assignment-three.vercel.app) |
+| [**Clash Royale Decks**](https://github.com/Kiddo4993/Clash-Royale-Website-with-API-KEYS) | A website for finding and downloading Clash Royale decks. |
+
+### 🌍 Open-source contributions
+Merged pull requests to other people's projects:
+
+| Project | What I fixed |
+|---|---|
+| [github/docs](https://github.com/github/docs/pull/46523) | Noted which plans have merge queues in the branch protection docs |
+| [PR-Agent](https://github.com/The-PR-Agent/pr-agent/pull/4536) | Applied the ambient-auth exemption to the `doctor` key check |
+| [Open Library](https://github.com/internetarchive/openlibrary/pull/14149) | Stopped returning an empty publisher from `get_location_and_publisher` |
+| [Microsoft PyRIT](https://github.com/microsoft/PyRIT/pull/3767) | Rejected `--config-file` paths that don't exist |
+| [nvidia-patch](https://github.com/keylase/nvidia-patch/pull/1138) | Added support for Linux driver 580.196.07 |
+| [mnemosyne](https://github.com/mnemosyne-oss/mnemosyne/pull/1193) | Clarified multi-profile and group-chat memory behavior in the docs |
+| [KanaDojo](https://github.com/lingdojo/kana-dojo/pull/32863) | Added a new Japan fact |
+| [CrossGL](https://github.com/CrossGL/crosstl/pull/2714) | Preserved Metal `long`/`ulong` widths in `as_type` bitcasts |
+| [reedline](https://github.com/nushell/reedline/pull/1285) (Nushell's line editor) | Reported Esc as inapplicable when there's nothing to cancel |
+| [oxynote](https://github.com/oxynote/oxynote/pull/246) | Abbreviated large metric values with K/M/B/T |
+
+More are [under review](https://github.com/search?q=author%3AKiddo4993+is%3Apr+is%3Aopen&type=pullrequests) in projects like Meteor, Probot, KubeArmor and rust-decimal.
 <!--Projects end-->
 
 
