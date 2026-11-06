@@ -22,7 +22,7 @@
 <!--Projects start-->
 ## What I've built
 
-### 🤖 AI & developer tools
+### AI & developer tools
 | Project | What it does |
 |---|---|
 | [**fixel**](https://github.com/Kiddo4993/fixel) | Double-tap Right Option, screenshot what you're stuck on, read the fix in your terminal. Remembers which fixes worked, has a built-in IDE, and plans your Canvas homework. Also a Claude Code plugin. [Site](https://kiddo4993.github.io/fixel/) |
@@ -30,7 +30,7 @@
 | [**THP**](https://github.com/Kiddo4993/Plugin) | The Task Handoff Protocol: sends a task to whichever AI (Claude, Gemini, OpenAI-compatible or local Ollama) fits it best on cost, speed and past success. |
 | [**Claude Discord Bot**](https://github.com/Kiddo4993/Discord-Bot-Imbued-With-AI-Claude-API-) | A Discord bot that answers through the Claude API, prompted to reply in a vexed, nonplussed way. |
 
-### 📱 Apps
+###  Apps
 | Project | What it does |
 |---|---|
 | [**Maîtrise**](https://github.com/Kiddo4993/FrenchApp) | Learn French from A1 to C1 with a skill tree, speech recognition and FSRS spaced repetition. [Live site](https://french-app-xi.vercel.app) |
@@ -40,14 +40,14 @@
 | [**GymTracker**](https://github.com/Kiddo4993/Gym-App-IOS) | A native SwiftUI gym tracker: Push/Pull/Legs split, progression charts, a streak calendar and a home-screen widget. |
 | [**Chat Bot (Java)**](https://github.com/Kiddo4993/Chat-Bot-Java-) | A chatbot that learns new replies as you talk to it, in a window or in the terminal. |
 
-### 🦾 VEX Robotics
+###  VEX Robotics
 | Project | What it does |
 |---|---|
 | [**Spark-Vex-App**](https://github.com/Kiddo4993/Spark-Vex-App) | Bayesian team ratings and scouting for VEX Robotics alliance selection. [Live site](https://spark-vex-app.vercel.app) |
 | [**Wipeout-Core**](https://github.com/Kiddo4993/Wipeout-Core) | Our own odometry + PID motion library for VEX V5, with every formula explained. |
 | [**800W-Code**](https://github.com/Kiddo4993/800W-Code) | Robot code for VEX V5 team 800W, using LemLib with tuned PID and odometry. |
 
-### 🌐 Websites
+###  Websites
 | Project | What it is |
 |---|---|
 | [**Portfolio**](https://github.com/Kiddo4993/PortfolioV2) | My portfolio as a software engineer and artist. [Live site](https://portfolio-v2-psi-seven.vercel.app) |
@@ -57,7 +57,7 @@
 | [**Pokémon Game**](https://github.com/Kiddo4993/Pokemon-Game) | A Pokémon game made for web dev. [Play it](https://pokemon-assignment-three.vercel.app) |
 | [**Clash Royale Decks**](https://github.com/Kiddo4993/Clash-Royale-Website-with-API-KEYS) | A website for finding and downloading Clash Royale decks. |
 
-### 🌍 Open-source contributions
+###  Open-source contributions
 Merged pull requests to other people's projects:
 
 | Project | What I fixed |
