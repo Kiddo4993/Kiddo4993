@@ -133,7 +133,7 @@ More are [under review](https://github.com/search?q=author%3AKiddo4993+is%3Apr+i
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Kiddo4993&icon=3&color=6)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=Kiddo4993&color=blueviolet&style=flat)
   
 </div>
 
